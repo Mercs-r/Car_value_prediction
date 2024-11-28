@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 
 import joblib
 # Load the saved model
-model = joblib.load(r"C:\Users\rolka\myenv\Car_price_predict.pkl")
+model = joblib.load(r"Car_price_predict.pkl")
 # App Title
 st.title('Car Price Prediction')
 
