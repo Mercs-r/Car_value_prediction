@@ -5,7 +5,7 @@ import joblib
 from sklearn.preprocessing import StandardScaler
 
 
-model = joblib.load(r'C:\Users\rolka\myenv\Car_price_predict.pkl')
+model = joblib.load(r'Car_price_predict.pkl')
 
 def predict_price(year, km_driven, fuel, seller_type, transmission, owner):
     data = pd.DataFrame({
