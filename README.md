@@ -11,8 +11,8 @@ Created the streamlit app & deployed the ML model onto it.
 Below are the details of the file:-
 
 CAR DETAILS.csv --> Contains the dataset
-Data_preprocessing_Cleaning_Mlmodel --> Creation of the ML Model
+Main project --> Creation of the ML Model
 EDA_Graphical_Analysis --> EDA
 app.py --> Streamlit app
-best_model.pkl --> Saved ML Model
-Project PPT --> Detailed presentation onto the project
+car_model_predict.pkl --> Saved ML Model
+Capstone project PPT --> Detailed presentation of the project
